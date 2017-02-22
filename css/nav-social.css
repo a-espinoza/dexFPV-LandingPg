@@ -1,0 +1,54 @@
+/* Styles for social media menu */
+
+/* Find src URL and add in correct social media icon. */
+.social-menu li a:before {
+    font-family: 'Fontawesome';
+    -webkit-font-smoothing: antialiased;
+    content: '\f08e';
+}
+
+.social-menu li a[href*="facebook.com"]::before { content: '\f09a'; }
+
+.social-menu li a[href*="instagram.com"]::before { content: '\f16d'; }
+
+.social-menu li a[href*="twitter.com"]::before { content: '\f099'; }
+
+.social-menu li a[href*="youtube.com"]::before { content: '\f167'; }
+
+.social-menu li a[href*="multigp.com"]::before { content: '\f11e'; }
+
+/* Flexbox stuff */
+
+.social-menu ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+/*Styling*/
+.menu-section {
+  background: red;
+	padding-bottom: .3em;
+	margin-bottom: 2em;
+	border-bottom: 1px solid hsl(0, 0%, );
+}
+
+.menu ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	background: hsl(0, 0%, 15%);
+}
+
+.menu li a {
+	display: block;
+	text-decoration: none;
+	color: white;
+	padding: .6em 1em;
+}
+
+.menu li a:hover {
+	background: red;
+  
+
+}
