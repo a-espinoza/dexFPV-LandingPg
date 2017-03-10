@@ -1,9 +1,10 @@
 /*LAYOUT*/
 
 .centered {
+    max-width: 1248px;
     margin: 0 auto;
-    padding: 0 1em;
-    /*border: 5px solid red;*/
+    padding: 0 1em;*
+    border: 5px solid green;
 }
 
 @media screen and (min-width: 52em) {

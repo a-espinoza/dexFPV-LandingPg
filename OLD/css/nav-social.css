@@ -20,6 +20,7 @@
 /* Flexbox stuff */
 
 .social-menu ul {
+  max-width: 1248px;
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-end;
@@ -27,6 +28,7 @@
 
 /*Styling*/
 .menu-section {
+  margin: 0 auto;
   background: red;
 	padding-bottom: .3em;
 	margin-bottom: 2em;
@@ -49,6 +51,6 @@
 
 .menu li a:hover {
 	background: red;
-  
+
 
 }
