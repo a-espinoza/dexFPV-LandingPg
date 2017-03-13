@@ -1,10 +1,10 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700);
-/*body {
+body {
   margin: 0;
   padding: 0;
   font-family: 'Open Sans Condensed', sans-serif;
   position: relative;
-}*/
+}
 
 .igviewer {
   /*position: fixed;*/
@@ -26,7 +26,7 @@
 }
 .instagram .image {
   background-repeat: none;
-  background-position: cover;;
+  background-position: cover;
   background-size: 100%;
   width: 248px;
   height: 248px;

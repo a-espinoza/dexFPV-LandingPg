@@ -59,12 +59,3 @@ ig.view = {
 }
 
 ig.init();
-
-//Listeners
-$('.instagram').on('click', '.image', function(){
-  var img = this.dataset.img;
-  ig.view.open(img);
-});
-$('.igviewer').on('click', function(){
-  ig.view.close();
-});
