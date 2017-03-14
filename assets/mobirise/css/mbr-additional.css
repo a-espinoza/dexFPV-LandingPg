@@ -406,7 +406,9 @@ h6,
 }
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
-  color: #f97352;
+  display: block;
+  text-align: center!important;
+  color: white;
 }
 .scrollToTop_wraper {
   opacity: 0 !important;
