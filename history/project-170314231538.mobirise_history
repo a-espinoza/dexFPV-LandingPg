@@ -1,17 +1,17 @@
 {
   "settings": {
-    "name": "scudRNR",
+    "name": "dexFPV",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#b8312f",
-        "secondaryColor": "#ffffff",
-        "successColor": "#b8312f",
-        "infoColor": "#fac51c",
-        "warningColor": "#2969b0",
-        "dangerColor": "#000000",
+        "primaryColor": "#f97352",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
@@ -24,7 +24,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 4,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/scudrnr-logo-dark-background-high-res-128x32.png",
+    "favicon": "",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -36,8 +36,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "ScudRNR",
-        "meta_descr": "- - ScudRNR, FPV Pilot, FPV Racing - -\nPowered & created by fpvlandingpages.com",
+        "title": "dexFPV",
+        "meta_descr": "- - dexFPV, FPV Pilot, FPV Racing - -\nPowered & created by fpvlandingpages.com",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -74,13 +74,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1f5087"
+              "background": "#f74b21"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#2662a4!important"
+              "background": "#f86743!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#2969b0"
+              "background": "#f97352"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -99,7 +99,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-3",
           "_params": {
-            "bgColor": "#2969b0",
+            "bgColor": "#f97352",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -114,7 +114,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/scudrnr%20logo%20light%20background%20high%20res-505x128.png",
+              "src": "@PROJECT_PATH@/assets/images/dexfpv-214x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://fpvlandingpages.com",
@@ -134,7 +134,7 @@
           "_inherit": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#e25041"
+              "color": "#b8312f"
             },
             ".mbr-section-text": {
               "color": "#ffffff"
@@ -189,7 +189,7 @@
           },
           "title": "scudRNR",
           "text": "Head to my Channel,<br>comment, like and subscribe!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://www.youtube.com/channel/UCcKUGdK3VubFoMKRSC_NakQ?sub_confirmation=1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://www.youtube.com/channel/UCcKUGdK3VubFoMKRSC_NakQ\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>"
         },
         {
           "_tags": [

@@ -1,17 +1,17 @@
 {
   "settings": {
-    "name": "scudRNR",
+    "name": "dexFPV",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#b8312f",
-        "secondaryColor": "#ffffff",
-        "successColor": "#b8312f",
-        "infoColor": "#fac51c",
-        "warningColor": "#2969b0",
-        "dangerColor": "#000000",
+        "primaryColor": "#f97352",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
@@ -24,20 +24,17 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 4,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/scudrnr-logo-dark-background-high-res-128x32.png",
+    "favicon": "",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png",
-    "publishFtpPath": "public_html",
-    "publishType": "local",
-    "publishPath": "file:///Users/MSI-MAC/Documents/clients/scudrnr"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "ScudRNR",
-        "meta_descr": "- - ScudRNR, FPV Pilot, FPV Racing - -\nPowered & created by fpvlandingpages.com",
+        "title": "dexFPV",
+        "meta_descr": "- - dexFPV, FPV Pilot, FPV Racing - -\nPowered & created by fpvlandingpages.com",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -74,13 +71,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1f5087"
+              "background": "#171c2c"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#2662a4!important"
+              "background": "#232c44!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#2969b0"
+              "background": "#28324e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -99,7 +96,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-3",
           "_params": {
-            "bgColor": "#2969b0",
+            "bgColor": "#28324e",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -114,7 +111,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/scudrnr%20logo%20light%20background%20high%20res-505x128.png",
+              "src": "@PROJECT_PATH@/assets/images/dexfpv-214x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://fpvlandingpages.com",
@@ -128,13 +125,13 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/scudrnr/\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/profile.php?id=662565648&amp;fref=nf\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCcKUGdK3VubFoMKRSC_NakQ\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://instagram.com/dexfpv\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://facebook.com/andrespinosa\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.twitter.com/andrespinosa\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/c/dexfpv ?sub_confirmation=1\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_inherit": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#e25041"
+              "color": "#28262b"
             },
             ".mbr-section-text": {
               "color": "#ffffff"
@@ -149,7 +146,7 @@
             "imageSize": "70",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/screen%20shot%202017-03-14%20at%203-2000x2003.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/fullsizeoutput-131e-2000x1125.png",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -157,8 +154,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
-            "overlayColor": "#000000",
+            "overlayOpacity": "0.6",
+            "overlayColor": "#2969b0",
             "inverse": true,
             "showTitle": true,
             "showText": true,
@@ -176,7 +173,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/s5fYuxnVoGw",
+              "src": "https://youtu.be/CLqxQcs4FHc",
               "aspectratio": "16:9",
               "autoplay": "on",
               "loop": false
@@ -187,9 +184,9 @@
               "size": 250
             }
           },
-          "title": "scudRNR",
+          "title": "dex<i>FPV</i>",
           "text": "Head to my Channel,<br>comment, like and subscribe!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://www.youtube.com/channel/UCcKUGdK3VubFoMKRSC_NakQ?sub_confirmation=1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://www.youtube.com/c/dexfpv\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>"
         },
         {
           "_tags": [
